@@ -1,4 +1,5 @@
 // FGTVM instance
+// Entendiendo los cambios
 
 resource "aws_network_interface" "eth0" {
   description = "fgtvm-port1"
